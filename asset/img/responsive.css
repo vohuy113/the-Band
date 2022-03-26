@@ -1,0 +1,100 @@
+/* mobie*/
+@media (max-width: 740px)
+{
+    #header .search-btn{
+        display: none;
+    }
+    #header{
+        overflow: hidden;
+    }
+    #header .mobie-menu-btn{
+        display: block;
+        height: 48.92px;
+        float: right;
+    }
+    #header .menu-icon{
+        color: #fff;
+        font-size: 20px;
+        line-height: 48.92px;
+        padding: 0 21px;
+    }
+    #header .mobie-menu-btn:hover{
+        background-color: #ccc;
+    }
+    #header .mobie-menu-btn:hover .menu-icon{
+        color: black;
+    }
+    
+    #nav  li{
+    display: block;
+}
+#nav {
+    display: block;
+}
+#nav li .subnav{
+    position: initial;
+}
+#nav  li  a{
+    display: block;
+}
+#nav>li:first-child{
+    display: inline-block;
+}
+#header #nav .subnav{
+    position: initial;
+    background-color: #333; 
+}
+#nav ul{
+    margin-left: -32px;
+    margin-right: -32px;
+    padding: 0 32px;
+}
+#nav .subnav li a{
+    color: #fff;
+    width: 100%;
+}
+#header .search-btn{
+    display: none;
+}
+#header{
+    overflow: hidden;
+}
+#header .mobie-menu-btn{
+    display: block;
+    height: 48.92px;
+    float: right;
+}
+#header .menu-icon{
+    color: #fff;
+    font-size: 20px;
+    line-height: 48.92px;
+    padding: 0 21px;
+}
+#header .mobie-menu-btn:hover{
+    background-color: #ccc;
+}
+#header .mobie-menu-btn:hover .menu-icon{
+    color: black;
+}
+.member_item_s{
+    margin-top: 32px;
+    width: 100%;
+    text-align: center;
+}
+#content .member-img{
+    width: 60%;
+}
+.ticket_item{
+    margin-top: 16px;
+    width: 100%;
+}
+.contact_s{
+    width: 100%;
+}
+.contact_form{
+    margin-top: 16px;
+}
+.s-mt-8{
+    margin-top: 8px;
+}
+}
