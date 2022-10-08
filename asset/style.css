@@ -191,7 +191,9 @@ color: #000;
     text-align: justify;
     margin-bottom: 15px;
 }
-
+.member_item_s{
+    text-align: center;
+}
 #content .team-item{
    float: left;
     padding: 32px 0;
